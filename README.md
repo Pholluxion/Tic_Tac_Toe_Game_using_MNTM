@@ -1,1 +1,1 @@
-# Tic_Tac_Toe_Game_using_MNTM
+# Tic Tac Toe Game using Multi-Tape Turing Machine
